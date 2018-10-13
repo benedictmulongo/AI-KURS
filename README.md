@@ -1,2 +1,0 @@
-# AI-KURS
-AI KURS KTH 
